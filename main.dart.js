@@ -92098,9 +92098,10 @@ p.aK()
 p.x.sbI(0,"0")
 p.y.sbI(0,"0")
 try{s=p.CW.rF(0,"theme")
-if(s!=null){p.ay=B.eD[s]
+if(s==null)s=0
+p.ay=B.eD[s]
 p.ch=B.eD[s].d
-p.vg(s)}}catch(q){r=A.a9(q)
+p.vg(s)}catch(q){r=A.a9(q)
 A.jV(r)}},
 G(a){var s,r,q=this,p=null,o=$.dH(),n=q.ay
 n===$&&A.a()
