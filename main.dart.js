@@ -93307,7 +93307,7 @@ n.push(new A.Se(r.b,j))}p.d=A.aLj(0,o.length,p)
 q=A.k(a)
 m=A.aD("Projekt Oversigt",j,j,j,j,A.k(a).p3.r,j,j)
 l=A.k(a)
-n=A.i1(A.aDr(A.a([A.ev(A.aD("Opret Nyt Projekt",j,j,j,j,A.k(a).p3.r,j,j),new A.aw6(a),j)],t.p),j,!0,l.ax.b,new A.Ep(o,p.d,!0,j),1,!1,j,j,!1,j,!1,j,j,j,j,!0,j,j,j,j,j,m,j,j,j,1,j),q.ax.CW,new A.Eq(p.d,n,j),j)
+n=A.i1(A.aDr(A.a([A.ev(A.aD("Opret Projekt",j,j,j,j,A.k(a).p3.r,j,j),new A.aw6(a),j)],t.p),j,!0,l.ax.b,new A.Ep(o,p.d,!0,j),1,!1,j,j,!1,j,!1,j,j,j,j,!0,j,j,j,j,j,m,j,j,j,1,j),q.ax.CW,new A.Eq(p.d,n,j),j)
 return n}q=A.i1(j,j,A.bU(j,j,B.n,j,j,j,j,j,j,j,j,j,j),j)
 return q}catch(k){throw k}},
 $S:585}
