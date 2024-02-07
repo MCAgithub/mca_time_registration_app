@@ -13,6 +13,7 @@ Key Features
 - Simple overview options, calendar and list sorted by latest
 - Client project overview
 - Theme Selector for personalization
+- Project time per client pie chart
 
 ## App Screenshots
 <br>
