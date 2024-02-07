@@ -24,7 +24,10 @@ Key Features
 <img src="https://github.com/MCAgithub/mca_time_registration_app/assets/134640613/a2bef5c2-e1d1-41f5-bb7c-2ccf2130e5cd" width="250">
 <img src="https://github.com/MCAgithub/mca_time_registration_app/assets/134640613/587a0c3f-6382-4705-bb04-90d7405f51c6" width="250">
 
-//## App Diagram
-//<img src="" width="750">
-//Starting from the "Logged in?" Box (bottom left) the flow of the app is as follows.
+<!-- Commented out for now
+
+## App Diagram
+<img src="" width="750">
+Starting from the "Logged in?" Box (bottom left) the flow of the app is as follows.
+-->
 
